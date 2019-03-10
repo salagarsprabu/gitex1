@@ -1,3 +1,7 @@
 This is file3
+<<<<<<< HEAD
 Added line1
 Added line3
+=======
+Add line
+>>>>>>> future_branch1
